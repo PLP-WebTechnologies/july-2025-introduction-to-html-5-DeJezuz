@@ -19,4 +19,4 @@ Incoming Master's Student – Université de Lorraine
 Specialist in UX, onboarding, and digital innovation
 
 ## 📅 Date
-August 2025
+July 2025
