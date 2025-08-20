@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Student profile page for PLP Week 1 Assignment. Demonstrates semantic HTML5 structure, accessibility, and SEO best practices." />
+  <meta name="keywords" content="HTML5, semantic structure, accessibility, SEO, PLP assignment" />
+  <meta name="author" content="Gervásio" />
+  <title>PLP Week 1 Assignment – Student Profile</title>
+</head>
+<body>
+  <header>
+    <nav aria-label="Main navigation">
+      <ul>
+        <li><a href="#about" accesskey="a">About</a></li>
+        <li><a href="#projects" accesskey="p">Projects</a></li>
+        <li><a href="#contact" accesskey="c">Contact</a></li>
+      </ul>
+    </nav>
+    <h1>Welcome to My Student Profile</h1>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>Hello! I'm Gervásio, an incoming master's student in Entrepreneurship & Project Management for Social Inclusion. I specialize in UX design, emotional architecture, and scalable digital innovation.</p>
+    </section>
+
+    <section id="projects">
+      <h2>Featured Projects</h2>
+      <article>
+        <h3>AI-Powered Video Editing Platform</h3>
+        <p>A modular tool designed for educators and creators, integrating smart UX flows and emotional onboarding.</p>
+      </article>
+      <article>
+        <h3>SQL Documentation Framework</h3>
+        <p>A professional-grade template for technical submissions, optimized for clarity and benchmarking.</p>
+      </article>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <form aria-label="Contact form">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required />
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" rows="5" required></textarea>
+
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Gervásio. All rights reserved.</p>
+  </footer>
+</body>
+</html>
