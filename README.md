@@ -1,28 +1,22 @@
-📘 Assignment: HTML5 + Accessibility & SEO Basics
-Overview
-This assignment will help you solidify your understanding of modern HTML5 structure while applying foundational concepts of web accessibility and search engine optimization (SEO). You’ll create a simple, semantically correct web page that prioritizes both human and machine readability—two pillars of great web design.
+# 📘 PLP Week 1 Assignment – HTML5 + Accessibility & SEO Basics
 
-Objective
-Build a basic web page using HTML5 semantic tags, applying accessibility best practices and beginner-friendly SEO principles. Your final output should demonstrate a well-structured layout that supports screen readers and is optimized for discoverability.
+## 🧠 Overview
+This project demonstrates a semantically structured HTML5 web page designed with accessibility and SEO in mind. It reflects thoughtful planning for both human users and search engine crawlers.
 
-Guidelines
-Use only HTML5. No CSS or JavaScript is required at this stage. Focus on using meaningful semantic elements to structure your page. Avoid using <div> or <span> unless absolutely necessary. Ensure your page has clearly defined sections such as a header, navigation, main content, and a footer.
+## ✅ Objectives Met
+- Semantic HTML5 structure using `<header>`, `<main>`, `<section>`, `<article>`, `<footer>`
+- Logical heading hierarchy from `<h1>` to `<h3>`
+- Accessibility features: `aria-label`, `accesskey`, and form labels
+- SEO-friendly metadata and descriptive content
 
-Incorporate accessibility by using proper HTML5 landmarks and attributes that improve navigation for assistive technologies. Your HTML should reflect thoughtful planning of hierarchy and readability, both for users and search engines.
+## 📂 Files
+- `index.html`: Main assignment file
+- `README.md`: Documentation and submission overview
 
-For SEO, emphasize the use of heading tags in the correct order, provide descriptive text, and ensure your content is both human-readable and crawler-friendly. Consider how a search engine would interpret your page in terms of structure and content clarity.
+## 👤 Author
+**Gervásio**  
+Incoming Master's Student – Université de Lorraine  
+Specialist in UX, onboarding, and digital innovation
 
-Deliverables
-A single HTML file named index.html. It should include:
-
-A semantic structure using appropriate HTML5 elements.
-Clear headings in a logical hierarchy.
-Accessibility enhancements using proper tags and attributes.
-SEO-friendly metadata and content.
-Tips
-Use HTML5 semantic tags appropriately.
-Organize content with accessibility in mind.
-Apply basic on-page SEO techniques.
-Follow clean, readable HTML code structure.
-About
-plp-webtechnologies-classroom-july2025-july-2025-introduction-to-html-5-introduction-to-html5-july-2 created by GitHub Classroom
+## 📅 Date
+August 2025
